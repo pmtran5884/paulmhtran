@@ -42,23 +42,13 @@ DefaultContentLanguage           = "en"                    # Default language fo
         icon  = "twitter" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
-        url   = "https://facebook.com/"
-        icon  = "facebook-f" # icon name without the 'fa-'
-        icon_pack = "fab"
-    [[params.social]]
-        url   = "https://linkedin.com/"
-        icon  = "linkedin-in" # icon name without the 'fa-'
-        icon_pack = "fab"
-    [[params.social]]
         url = "mailto:paulhuytran9714@gmail.com"  # For a direct email link, use "mailto:test@example.org".
         icon = "paper-plane" # icon name without the 'fa-'
         icon_pack = "fas"
     [[params.social]]
-        url   = "https://mastodon.social/"
-        icon  = "mastodon" # icon name without the 'fa-'
-        icon_pack = "fab"
-        html_attributes = "rel=\"me\"" # Add rel attribute for Mastodon profile link verification
-
+        url = "https://www.goodreads.com/user/show/45740775-paul-tran"
+        icon = "book-reader" # icon name without the 'fa-'
+        icon_pack = "fas"
 
 # If you don't want to use the default menu, you can define one by yourself
 # [[menu.main]]

@@ -7,14 +7,24 @@ weight: 8
 I am a 7th year MD/PhD student at Augusta University.
 I am silk tofu.
 I am Small Paul.
-This is **Introduction**, a minimalist website theme made for [Hugo](https://gohugo.io).
 
-### Features
+I completed my PhD dissertation titled "APPLICATIONS OF MACHINE LEARNING TO GENOMICS:
+STUDIES IN TYPE 1 DIABETES AND CANCER" in Spring 2020. 
 
-* Responsive display on any size screen
-* Light and Dark themes right out of the box
-* Multilingual - supports side-by-side content in multiple languages
-* Any number of custom index page sections from Markdown files
-* _Projects_ section with any number of projects: highly configurable as a photo gallery, modals, or external links
-* _Blog_ section with optional _Latest Post_, on the main page or as a separate section
-* Styled Markdown throughout with support for Hugo's syntax highlighting
+I live with my mother, sister, sister's dog ("Nhan"), and my kitten ("Luna").
+
+My daughter is a 4 month old kitten named "Luna".
+
+
+### Interesting Facts about me
+
+* I have a twin sister who is also an MD/PhD student at Augusta University
+* I have traveled to all 50 states in the US
+* I started medical school at 17
+
+### Interested in
+* Triathlon training- been preparing for the [Augusta 70.3](https://www.ironman.com/im703-augusta)
+* Meditation- I use [Headspace](https://www.headspace.com/)
+* Reading- see my [goodreads](https://www.goodreads.com/user/show/45740775-paul-tran)
+* Outdoor activities- kayaking, camping, hiking
+* Budgeting

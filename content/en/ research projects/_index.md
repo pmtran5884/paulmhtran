@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Research Projects
 weight: 10
 ---
 

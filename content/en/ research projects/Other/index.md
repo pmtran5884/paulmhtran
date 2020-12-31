@@ -1,7 +1,11 @@
 ---
-title: Writing
+title: Other
 weight: 3
 ---
+
+## Microbiology
+Campylobacter molecular
+
 
 Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
 

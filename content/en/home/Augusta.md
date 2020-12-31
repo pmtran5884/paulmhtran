@@ -1,5 +1,5 @@
 ---
-title: "Lorem Ipsum"
+title: "Things I enjoy in Augusta"
 weight: 30
 ---
 
