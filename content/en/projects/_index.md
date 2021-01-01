@@ -1,5 +1,5 @@
 ---
-title: Research Projects
+title: My Life In Pictures
 weight: 10
 ---
 
