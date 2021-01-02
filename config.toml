@@ -103,14 +103,3 @@ DefaultContentLanguage           = "en"                    # Default language fo
         [languages.es.params]
             description  = "Descripcion del sitio web"
             # footerText   = ""
-
-    [languages.de]
-        languageName     = "Deutsch"
-        languageCode     = "de"
-        contentDir       = "content/de"
-        weight           = 2
-        title            = "Vorstellung"
-        [languages.de.params]
-            dateFormat   = "2. January 2006"
-            description  = "Beschreibung der Webseite"
-            # footerText   = ""

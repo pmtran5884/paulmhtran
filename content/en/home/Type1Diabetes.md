@@ -9,6 +9,8 @@ I was fortunate to receive [funding](https://projectreporter.nih.gov/project_inf
 A manuscript detailing the polygenic risk of islet autoimmunity in newborns is in preparation.
 
 ## Type 1 Diabetes Complications
-[Type 1 Diabetes Complications Clinical Predictors](https://github.com/pmtran5884/T1D_Complications)
+Type 1 Diabetes Complications Clinical Predictors [Code](https://github.com/pmtran5884/T1D_Complications)
+[Website](https://ptran25.shinyapps.io/Diabetic_Peripheral_Neuropathy_Risk/?_ga=2.159360185.2040679849.1609524909-2098218154.1607979380)
+[Paper draft](https://augustauniversity.box.com/s/p6vg50ahzitkrtkgo6fb7hwlvh831gmo)
 
 Type 1 Diabetes Complications Serum Protein Signature

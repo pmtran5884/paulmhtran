@@ -24,6 +24,7 @@ My grants and publications are listed [here](https://orcid.org/0000-0003-2197-43
 * I have traveled to all 50 states in the US
 * I started medical school at 17
 * I don't drink coffee
+* I was a drum major in high school
 
 ### Interested in
 * Triathlon training- been preparing for the [Augusta 70.3](https://www.ironman.com/im703-augusta)
