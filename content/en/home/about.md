@@ -4,12 +4,12 @@ image: "profile.jpg"
 weight: 8
 ---
 
-I am a 7th year MD/PhD student at Augusta University.
+I am a 7th year MD/PhD student at [Augusta](https://jagwire.augusta.edu/in-their-own-words-paul-tran/) [University](https://jagwire.augusta.edu/tag/paul-tran/).
 I am silk tofu.
 I am Small Paul.
 
-I completed my PhD dissertation titled "APPLICATIONS OF MACHINE LEARNING TO GENOMICS:
-STUDIES IN TYPE 1 DIABETES AND CANCER" in Spring 2020 from the lab of [Jin-Xiong She, PhD](https://augusta.pure.elsevier.com/en/persons/jin-xiong-she). 
+I completed my PhD dissertation titled ["APPLICATIONS OF MACHINE LEARNING TO GENOMICS:
+STUDIES IN TYPE 1 DIABETES AND CANCER"](https://www.augusta.edu/gradschool/documents/paul-tran-defense-announcement.pdf) in Spring 2020 from the lab of [Jin-Xiong She, PhD](https://augusta.pure.elsevier.com/en/persons/jin-xiong-she). 
 
 I live with my mother, sister, sister's dog ("Nhan"), and my kitten ("Luna").
 
@@ -20,7 +20,7 @@ My grants and publications are listed [here](https://orcid.org/0000-0003-2197-43
 
 ### Interesting Facts about me
 
-* I have a twin sister who is also an MD/PhD student at Augusta University
+* I have a twin sister who is also an MD/PhD student at [Augusta University](https://www.facebook.com/GeorgiaMDPhD/posts/congratulations-to-paul-tran-for-receiving-the-2019-augusta-university-faculty-c/2383626914991804/)
 * I have traveled to all 50 states in the US
 * I started medical school at 17
 * I don't drink coffee
