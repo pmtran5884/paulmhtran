@@ -66,6 +66,11 @@ googleAnalytics                 = "UA-186429851-1"                     # https:/
         icon = "book-reader" # icon name without the 'fa-'
         icon_pack = "fas"
 
+enableRobotsTXT = true
+canonifyURLs = true
+# and if you think your md file names or locations might change:
+[permalinks]
+    post = "/blog/:title/"
 # If you don't want to use the default menu, you can define one by yourself
 # [[menu.main]]
 #     name    = "Home"
