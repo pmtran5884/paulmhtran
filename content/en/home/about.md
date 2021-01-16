@@ -1,10 +1,10 @@
 ---
 title: "About"
-image: "profile.jpg"
+image: "profile 2.jpg"
 weight: 8
 ---
 
-I am a 7th year MD/PhD student at [Augusta](https://jagwire.augusta.edu/in-their-own-words-paul-tran/) [University](https://jagwire.augusta.edu/tag/paul-tran/).
+My name is Paul Minh Huy Tran. I am a second generation Vietnamese immigrant. I am a 7th year MD/PhD student at [Augusta](https://jagwire.augusta.edu/in-their-own-words-paul-tran/) [University](https://jagwire.augusta.edu/tag/paul-tran/).
 I am silk tofu.
 I am Small Paul.
 
@@ -13,7 +13,7 @@ STUDIES IN TYPE 1 DIABETES AND CANCER"](https://www.augusta.edu/gradschool/docum
 
 I live with my mother, sister, sister's dog ("Nhan"), and my kitten ("Luna").
 
-My daughter is a 4 month old kitten named "Luna".
+My [partner](https://thirsty-wiles-73e58b.netlify.app/) and I take care of three fur babies. They are Luna, a 5 month old kitten; George, a chonky boy; and Elliot, our old man.  
 
 My grants and publications are listed [here](https://orcid.org/0000-0003-2197-4376)
 
