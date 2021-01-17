@@ -21,7 +21,7 @@ googleAnalytics                 = "UA-186429851-1"                     # https:/
         showLatest               = true                    # Show latest blog post summary
         showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
         allPostsArchiveFormat    = true                    # show all posts in an archive format
-        numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
+        numberOfProjectsToShow   = 4                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
         localTime                = true                    # Show your current local time in contact section
         timeZone                 = "America/New_York"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         timeFormat               = "en-US"                 # Language specific format to use
@@ -48,10 +48,6 @@ googleAnalytics                 = "UA-186429851-1"                     # https:/
     [[params.social]]
         url   = "https://www.researchgate.net/profile/Paul_Tran2"
         icon  = "researchgate" # icon name without the 'fa-'
-        icon_pack = "fab"
-    [[params.social]]
-        url   = "https://orcid.org/0000-0003-2197-4376"
-        icon  = "orcid" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
         url   = "https://scholar.google.com/citations?user=rhWkuyUAAAAJ&hl=en&gmla=AJsN-F7LaeDd0SNnY4dOuhkM7D1MaAW9v9r5wBFJDV6rBjP_fR1Mxs9O5pd1DpUyHw0XVssL-3zg8TWZAVvL0urvARULpbe6lFVHlbJ-jak0mqT7ZN86tNc&sciund=4412143109254628604"
@@ -115,12 +111,3 @@ canonifyURLs = true
             description  = "Website Description"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
-    [languages.es]
-        languageName     = "Español"
-        languageCode     = "es"
-        contentDir       = "content/es"
-        weight           = 1
-        title            = "Introducción"
-        [languages.es.params]
-            description  = "Descripcion del sitio web"
-            # footerText   = ""
