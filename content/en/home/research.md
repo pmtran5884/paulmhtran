@@ -34,7 +34,10 @@ I rotated in the laboratory of Jin-Xiong She, PhD, who I selected as my PhD ment
 
 __Case report of a NUT Midline Carcinoma (2015)__
 
-I presented a case report on a case of NUT midline carcinoma at the Southeastern Surgical Congress in 2015
+I presented a case report on a case of NUT midline carcinoma at the Southeastern Surgical Congress in 2015. 
+
+[Poster](https://drive.google.com/file/d/1wEQVClxcMs7A5W1c8QZdKu0CJI7ImMaS/view?usp=sharing)
+Watch me play with the [Da Vinci robot](https://drive.google.com/file/d/1F5ZzWKcs8K9J4lnDY-p18lONBDSQ4_eu/view?usp=sharing) at this conference!
 
 ### Graduate School: Cancer Projects (2016-2020)
 During my early years in graduate school, I applied machine learning methods to genomics data to help with classification and predicting poor prognosis in various cancers.
@@ -95,6 +98,7 @@ __Uterine Cancer Transcriptomic Signature__
 
 This paper develops and validates a transcriptomic signature which predicts survival prognosis of uterine serous carcinoma patients.
 [Manuscript](https://europepmc.org/article/med/32067813)
+[AACR poster presentation](https://drive.google.com/file/d/1jnZwv1nhEJRExL32D9hs3lXkQ2Y7SPhA/view?usp=sharing)
 
 ### Graduate School: T1D Projects (2018-2021)
 During my later years in graduate school, I applied machine learning methods to genetic, clinical, and serum protein data to help with predicting islet autoimmunity and diabetic complications.

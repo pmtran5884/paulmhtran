@@ -22,9 +22,9 @@ My grants and publications are listed [here](https://orcid.org/0000-0003-2197-43
 
 * I have a twin sister who is also an MD/PhD student at [Augusta University](https://www.facebook.com/GeorgiaMDPhD/posts/congratulations-to-paul-tran-for-receiving-the-2019-augusta-university-faculty-c/2383626914991804/)
 * I have traveled to all 50 states in the US
-* I started medical school at 17
+* I started medical school at [17](https://drive.google.com/file/d/13knL7XkWm_kiXQ92Cp8rD8VCaSiSTMy7/view?usp=sharing)
 * I don't drink coffee
-* I was a drum major in high school
+* I was a [drum major](https://drive.google.com/file/d/1CK0AxP-OBre2WdoC8s-w6OACyVMYyw0r/view?usp=sharing) in high school. Watch my [band perform](https://drive.google.com/file/d/13EyNAHosLhaILLlNOuZMQVlRSiDwCykd/view?usp=sharing) circa 2012!
 
 ### Interested in
 * Triathlon training- been preparing for the [Augusta 70.3](https://www.ironman.com/im703-augusta)
@@ -32,4 +32,4 @@ My grants and publications are listed [here](https://orcid.org/0000-0003-2197-43
 * Reading- see my [goodreads](https://www.goodreads.com/user/show/45740775-paul-tran)
 * Outdoor activities- kayaking, camping, hiking
 * Budgeting
-* Music (I was in an ensemble and an acapella group)
+* Music (I was in an [ensemble](https://drive.google.com/file/d/16ERu_IW20k3_0NLwkMpZafL_RP1k6nPy/view?usp=sharing) and an [acapella](https://drive.google.com/file/d/1kic6hFi2Df67IsPxI1BJNf42iYBN5z3p/view?usp=sharing) group)
