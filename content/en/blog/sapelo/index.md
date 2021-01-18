@@ -16,45 +16,37 @@ I worked with my twin sister, Lynn, and one other student on a project to profil
 
 On day 1, we went straight to work because we new isolating new organisms on agar can take quite a while and we didn't want to come back empty handed. We got to work at the UGA Marine Institute (pictured below), which was conveniently located right next to our housing.
 
-![Marine Institute](sapelo_UGAmarineinstitute.jpg)
+<img src="sapelo_UGAmarineinstitute.jpg" alt="drawing" width="500"/>
 
 We made our agar using the oldest autoclave I have ever seen. It takes half the day to run!
-![autoclave](sapelo_autoclave.jpg)
+<img src="sapelo_autoclave.jpg" alt="drawing" width="500"/>
 
 Here is our bench space!
-![bench space](sapelo_agar.jpg)
+<img src="sapelo_agar.jpg" alt="drawing" width="500"/>
 
 Once the agar was set. It was time for us to go to our field site to isolate some halophiles! For most of our stay we traveled by golf cart or by bike.
 
-![bike](sapelo_bike_lighthouse.jpg)
+<img src="sapelo_bike_lighthouse.jpg" alt="drawing" width="500"/>
 
 You can see an example of a salt pan in the distance in this picture:
 
-![salt pan](sapelo_saltflats.jpg)
+<img src="sapelo_saltflats.jpg" alt="drawing" width="500"/>
 
 Once we obtained our salt flat sediments and spread it onto our agar plates, we were able to relax some while the microbes were incubating. The weather was beautiful and we got to enjoy a lot of time on the beach!
 
-![beach](sapelo_beach.jpg)
+<img src="sapelo_beach.jpg" alt="drawing" width="500"/>
 
 After 6 days of incubation, we finaly had colony growth!
 
-![site3 agar](sapelo_site3_agar.jpg)
+<img src="sapelo_site3_agar.jpg" alt="drawing" width="500"/>
 
 We were even able to gram stain the colonies on site.
 
-![gram stain](sapelo_gramstain.jpg)
-
+<img src="sapelo_gramstain.jpg" alt="drawing" width="500"/>
 
 While we weren't able to sample enough site for quantitative analyses, we found that salt pans further away from a freshwater source had higher salinity and increased abundance and diversity of halophiles compared to sites closer to a freshwater source.
 
 Here is a picture of the group of us that took the field research class that summer:
-![group](sapelo_group.jpg)
+<img src="sapelo_group.jpg" alt="drawing" width="500"/>
 
-Block of code:
-
-```JavaScript
-  const thisIsATest = () => {
-    console.log("This is funny")
-  }
-```
 
