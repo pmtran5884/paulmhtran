@@ -1,4 +1,4 @@
-baseURL                          = "https://trusting-hamilton-14d971.netlify.app/"   # Your domain name. Must end with "/"
+baseURL                          = "https://www.pmhtran.com/"   # Your domain name. Must end with "/"
 theme = "hugo-theme-introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
@@ -19,14 +19,14 @@ googleAnalytics                 = "UA-186429851-1"                     # https:/
     [params.home]
         introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
         showLatest               = true                    # Show latest blog post summary
-        showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
+        showAllPosts             = true                   # Set true to list all posts on home page, or set false to link to separate blog list page
         allPostsArchiveFormat    = true                    # show all posts in an archive format
         numberOfProjectsToShow   = 4                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
         localTime                = true                    # Show your current local time in contact section
         timeZone                 = "America/New_York"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         timeFormat               = "en-US"                 # Language specific format to use
     [params.projects]
-        useTwoColumns            = false                   # Use a layout with two columns instead of three
+        useTwoColumns            = true                   # Use a layout with two columns instead of three
 
     # Share buttons on blog post pages
     [params.share]
