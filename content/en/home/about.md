@@ -5,8 +5,6 @@ weight: 8
 ---
 
 My name is Paul Minh Huy Tran. I am a second generation Vietnamese immigrant. I am a 7th year MD/PhD student at [Augusta](https://jagwire.augusta.edu/in-their-own-words-paul-tran/) [University](https://jagwire.augusta.edu/tag/paul-tran/).
-I am silk tofu.
-I am Small Paul.
 
 I completed my PhD dissertation titled ["APPLICATIONS OF MACHINE LEARNING TO GENOMICS:
 STUDIES IN TYPE 1 DIABETES AND CANCER"](https://www.augusta.edu/gradschool/documents/paul-tran-defense-announcement.pdf) in Spring 2020 from the lab of [Jin-Xiong She, PhD](https://augusta.pure.elsevier.com/en/persons/jin-xiong-she). 
@@ -32,4 +30,4 @@ My grants and publications are listed [here](https://orcid.org/0000-0003-2197-43
 * Reading- see my [goodreads](https://www.goodreads.com/user/show/45740775-paul-tran)
 * Outdoor activities- kayaking, camping, hiking
 * Budgeting
-* Music (I was in an [ensemble](https://drive.google.com/file/d/16ERu_IW20k3_0NLwkMpZafL_RP1k6nPy/view?usp=sharing) and an [acapella](https://drive.google.com/file/d/1kic6hFi2Df67IsPxI1BJNf42iYBN5z3p/view?usp=sharing) group)
+* Music (I was in an [ensemble](https://drive.google.com/file/d/16ERu_IW20k3_0NLwkMpZafL_RP1k6nPy/view?usp=sharing) and an [acapella](https://drive.google.com/file/d/16fy49HDfOeqRD-YSL3TfL9MMFyecOCxg/view?usp=sharing) group)
