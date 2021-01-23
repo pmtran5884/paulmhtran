@@ -13,8 +13,7 @@ I studied a putative tripartite efflux pump with high homology to the well studi
 
 __Abundance and Diversity of Halophiles on the salt pans of Sapelo Island (2013)__
 
-Two of my classmates and I traveled to Sapelo Island, GA to explore the halophiles on the salt pans of sapelo island. We found that higher salinity salt pans are usually further away from freshwater and that the higher salinity salt pans have both high abundance and diversity of halophiles! This work was performed under the co-mentorship of Nancy Dalman, PhD and Paul Johnson, PhD. [Abstract](https://drive.google.com/file/d/1mu-nhsYX59DDBb7Nm1iomt6_RVUZ2GIu/view?usp=sharing) [Local Poster Presentation](https://drive.google.com/file/d/1CA_4-51N78UhdDOolabT8XC8DAdkTt0T/view?usp=sharing)
-Stay tuned for a blog coming about my experience on Sapelo Island!
+Two of my classmates and I traveled to Sapelo Island, GA to explore the halophiles on the salt pans of sapelo island. We found that higher salinity salt pans are usually further away from freshwater and that the higher salinity salt pans have both high abundance and diversity of halophiles! This work was performed under the co-mentorship of Nancy Dalman, PhD and Paul Johnson, PhD. Links: [Abstract](https://drive.google.com/file/d/1mu-nhsYX59DDBb7Nm1iomt6_RVUZ2GIu/view?usp=sharing), [Local Poster Presentation](https://drive.google.com/file/d/1CA_4-51N78UhdDOolabT8XC8DAdkTt0T/view?usp=sharing), see my [blog post](https://www.pmhtran.com/blog/sapelo/) about my experience on Sapelo Island!
 
 ### Medical School Years 1-2 (2014-2016)
 During my first year of medical school, I rotated with three mentors.
@@ -34,9 +33,8 @@ I rotated in the laboratory of Jin-Xiong She, PhD, who I selected as my PhD ment
 
 __Case report of a NUT Midline Carcinoma (2015)__
 
-I presented a case report on a case of NUT midline carcinoma at the Southeastern Surgical Congress in 2015. 
+I presented a case report on a case of NUT midline carcinoma at the Southeastern Surgical Congress in 2015. [Poster](https://drive.google.com/file/d/1wEQVClxcMs7A5W1c8QZdKu0CJI7ImMaS/view?usp=sharing)
 
-[Poster](https://drive.google.com/file/d/1wEQVClxcMs7A5W1c8QZdKu0CJI7ImMaS/view?usp=sharing)
 Watch me play with the [Da Vinci robot](https://drive.google.com/file/d/1F5ZzWKcs8K9J4lnDY-p18lONBDSQ4_eu/view?usp=sharing) at this conference!
 
 ### Graduate School: Cancer Projects (2016-2020)
@@ -47,14 +45,14 @@ I formulated the project and conducted all of the brain cancer project. For the 
 ##### Brain Cancer
 __Transcriptomic Classification of Gliomas__
 
-This project is a major part of my thesis. I used publicly available glioma transcriptomic data and applied a custom unsupervised classification algorithm using a combination of [UMAP](https://umap-learn.readthedocs.io/en/latest/) and [density-based clustering](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.121.9220). I identified four clusters highly similar to previously published IDH-codel groups and methylomic groups. The new clusters may better reflect patient survival compared to previously reported glioma groups.
-[Manuscript](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7692499/)
-[AACR 2019 Poster Presentation](https://drive.google.com/file/d/1wXC0KHW8G7mtk3vVksCtgmrueqz6VTCg/view?usp=sharing)
+This project is a major part of my thesis. I used publicly available glioma transcriptomic data and applied a custom unsupervised classification algorithm using a combination of [UMAP](https://umap-learn.readthedocs.io/en/latest/) and [density-based clustering](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.121.9220). I identified four clusters highly similar to previously published IDH-codel groups and methylomic groups. The new clusters may better reflect patient survival compared to previously reported glioma groups. Links:
+[Manuscript](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7692499/),
+[AACR 2019 Poster Presentation](https://drive.google.com/file/d/1wXC0KHW8G7mtk3vVksCtgmrueqz6VTCg/view?usp=sharing), [news article](https://mindzilla.com/newsroom/science/genomics/44048/20210119-new-approach-emerges-to-better-classify-treat-brain-tumours/), and [local news channel feature](https://www.wfxg.com/story/43206589/doctors-at-au-create-new-approach-to-better-classify-and-treat-brain-tumors)
 
 __Validation of a Transcriptomic Signature for Glioma Classification__
 
-I have submitted a second publication which uses a local retrospective cohort to validate our findings from the original publication.
-[Manuscript](https://augustauniversity.box.com/s/txaqjm88mngju5h5syxg7lbfqk9hi8fd)
+I have submitted a second publication which uses a local retrospective cohort to validate our findings from the original publication. Links:
+[Manuscript](https://augustauniversity.box.com/s/txaqjm88mngju5h5syxg7lbfqk9hi8fd) and 
 [Code](https://github.com/pmtran5884/Brain-paper-2)
 
 ##### Cervical Cancer
@@ -96,8 +94,8 @@ I aided in the data analysis and manuscript preparation for this manuscript.
 
 __Uterine Cancer Transcriptomic Signature__
 
-This paper develops and validates a transcriptomic signature which predicts survival prognosis of uterine serous carcinoma patients.
-[Manuscript](https://europepmc.org/article/med/32067813)
+This paper develops and validates a transcriptomic signature which predicts survival prognosis of uterine serous carcinoma patients. Link:
+[Manuscript](https://europepmc.org/article/med/32067813), and 
 [AACR poster presentation](https://drive.google.com/file/d/1jnZwv1nhEJRExL32D9hs3lXkQ2Y7SPhA/view?usp=sharing)
 
 ### Graduate School: T1D Projects (2018-2021)
@@ -109,15 +107,15 @@ I was fortunate to receive [funding](https://projectreporter.nih.gov/project_inf
 
 A manuscript detailing the polygenic risk of islet autoimmunity in newborns is in preparation. [News article feature](https://jagwire.augusta.edu/tag/paul-tran/)
 
-Stay tuned for a blog post of the difference between a PRS for islet autoimmunity compared to type 1 diabetes and why it is more important to predict islet autoimmunity.
+See my blog post on the difference between a PRS for islet autoimmunity compared to type 1 diabetes and why it is more important to predict islet autoimmunity [here](https://www.pmhtran.com/blog/islet_autoimmunity/).
 
 __Type 1 Diabetes Complications__
 
 This project is part of the Phenome and Genome of Diabetic Autoimmunity ( [PAGODA](https://www.augusta.edu/research/studies/trial.php?study=611249)) study initiated by my mentor, Jin-Xiong She, PhD through funding from NIDDK and JDRF.
 
-The first manuscript describes the role of the modifiable risk factors, blood pressure and glucose level, in developing microvascular complications of type 1 diabetes. This manuscript is currently under review.
-[Code](https://github.com/pmtran5884/T1D_Complications)
-[Website](https://ptran25.shinyapps.io/Diabetic_Peripheral_Neuropathy_Risk/?_ga=2.159360185.2040679849.1609524909-2098218154.1607979380)
+The first manuscript describes the role of the modifiable risk factors, blood pressure and glucose level, in developing microvascular complications of type 1 diabetes. This manuscript is currently under review. Links: 
+[Code](https://github.com/pmtran5884/T1D_Complications), 
+[Website](https://ptran25.shinyapps.io/Diabetic_Peripheral_Neuropathy_Risk/?_ga=2.159360185.2040679849.1609524909-2098218154.1607979380), and
 [Manuscript draft](https://augustauniversity.box.com/s/p6vg50ahzitkrtkgo6fb7hwlvh831gmo)
 
 The second manuscript describes the role of inflammatory proteins in developing diabetic peripheral neuropathy. This manuscript is currently under review.
