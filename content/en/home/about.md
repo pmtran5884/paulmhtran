@@ -4,7 +4,7 @@ image: "profile 2.jpg"
 weight: 8
 ---
 
-My name is Paul Minh Huy Tran. I am a second generation Vietnamese American. I am a 7th year MD/PhD student at [Augusta](https://jagwire.augusta.edu/in-their-own-words-paul-tran/) [University](https://jagwire.augusta.edu/tag/paul-tran/).
+My name is Paul Minh Huy Tran. I am a second generation Vietnamese American. I am an 8th year MD/PhD student at [Augusta](https://jagwire.augusta.edu/in-their-own-words-paul-tran/) [University](https://jagwire.augusta.edu/tag/paul-tran/).
 
 I completed my PhD dissertation titled ["APPLICATIONS OF MACHINE LEARNING TO GENOMICS:
 STUDIES IN TYPE 1 DIABETES AND CANCER"](https://www.augusta.edu/gradschool/documents/paul-tran-defense-announcement.pdf) in Spring 2020 from the lab of [Jin-Xiong She, PhD](https://augusta.pure.elsevier.com/en/persons/jin-xiong-she). 
