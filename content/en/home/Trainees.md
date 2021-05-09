@@ -7,7 +7,10 @@ I was a mentor to undergraduate, graduate, and medical students during my summer
 
 | trainee | project | current position|
 |---------|---------|-----------------|
-| Caitlyn Hodges | Urine proteomic markers for diagnosis of urologic cancers | Resident Physician|
+| Caitlyn Hodges | Urine proteomic markers for diagnosis of urologic cancers | General Surgery Resident, Pennsylvania |
 | Katie Pinkerton | IL1RA knockout NSG mice have a higher rate of islet autoimmunity | Laboratory Technician|
-| Dakota Booth | Transcriptomic Classification of Gliomas | MD/PhD Student |
+| Dakota Booth | Transcriptomic Classification of Gliomas | MD/PhD Student, Augusta University |
+| Emily Myers | Network Analysis of Uterine Serous Carcinoma | General Surgery Resident, Colorado University |
+| Eileen Kim | Serum Markers of Diabetic Peripheral Neuropathy | Internal Medicine Resident, Rutgers University |
+| Khaled bin Satter | Molecular Classification of Renal Cancers | PhD Student, Augusta University |
 
