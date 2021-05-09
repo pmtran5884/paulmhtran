@@ -52,7 +52,7 @@ This project is a major part of my thesis. I used publicly available glioma tran
 __Validation of a Transcriptomic Signature for Glioma Classification__
 
 I have submitted a second publication which uses a local retrospective cohort to validate our findings from the original publication. Links:
-[Manuscript](https://augustauniversity.box.com/s/txaqjm88mngju5h5syxg7lbfqk9hi8fd) and 
+[Manuscript](https://www.mdpi.com/2072-6694/13/3/439) and 
 [Code](https://github.com/pmtran5884/Brain-paper-2)
 
 ##### Cervical Cancer
@@ -109,6 +109,12 @@ A manuscript detailing the polygenic risk of islet autoimmunity in newborns is i
 
 See my blog post on the difference between a PRS for islet autoimmunity compared to type 1 diabetes and why it is more important to predict islet autoimmunity [here](https://www.pmhtran.com/blog/islet_autoimmunity/).
 
+__Genetic Mapping of Type 1 Diabetes Associated Variants__
+
+We a have identified potential causal variants and regulatory mechanism linking the 3p21.31 locus to type 1 diabetes. Our data suggest that certain variants increase CCR2 gene expression in monocytes and effector T cells leading to increased CCR2/CCL2 pathway activation and immune destruction of pancreatic islets.
+[Manuscript draft](https://augustauniversity.box.com/s/55uy7tzlrwobx2oi90keooj7ipdfzjkq)
+[Figures draft](https://augustauniversity.box.com/s/uwgs73r3zscpjfbi6p14j2xq4c7llvd5)
+
 __Type 1 Diabetes Complications__
 
 This project is part of the Phenome and Genome of Diabetic Autoimmunity ( [PAGODA](https://www.augusta.edu/research/studies/trial.php?study=611249)) study initiated by my mentor, Jin-Xiong She, PhD through funding from NIDDK and JDRF.
@@ -118,8 +124,8 @@ The first manuscript describes the role of the modifiable risk factors, blood pr
 [Website](https://ptran25.shinyapps.io/Diabetic_Peripheral_Neuropathy_Risk/?_ga=2.159360185.2040679849.1609524909-2098218154.1607979380), and
 [Manuscript draft](https://augustauniversity.box.com/s/p6vg50ahzitkrtkgo6fb7hwlvh831gmo)
 
-The second manuscript describes the role of inflammatory proteins in developing diabetic peripheral neuropathy. This manuscript is currently under review.
-[Manuscript draft](https://augustauniversity.box.com/s/y54y5p1ci3b2gxqn1sr2rjo1kih0hi7a)
+The second manuscript describes the role of inflammatory proteins in developing diabetic peripheral neuropathy.
+[Manuscript](https://www.frontiersin.org/articles/10.3389/fimmu.2021.654233/full)
 Code will be released soon.
 
 ### Medical School Years 3-4 (2020-2022)
@@ -129,3 +135,4 @@ __Impella for COVID19 related cardiomyopathy, abstract submitted (2020)__
 
 __Atypical hemolytic uremic syndrome (2020)__
 [abstract submitted](https://drive.google.com/file/d/1WsWJkHU_ijd1fXalQPitI6UhEW5sEB3R/view?usp=sharing)
+[ACP 2021 Poster Presentation](https://drive.google.com/file/d/15lDE_NtTCteYP6bLREM3PSXK-TIBYrsZ/view?usp=sharing)
