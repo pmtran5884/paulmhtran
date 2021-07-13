@@ -11,7 +11,7 @@ STUDIES IN TYPE 1 DIABETES AND CANCER"](https://www.augusta.edu/gradschool/docum
 
 I live with my mother, sister, sister's dog ("Nhan"), and my kitten ("Luna").
 
-My partner and I take care of three fur babies. They are Luna, a 5 month old kitten; George, a chonky boy; and Elliot, our old man.  
+My partner and I take care of two fur babies. They are Luna, a 10 month old kitten; and George, a chonky boy. 
 
 My grants and publications are listed [here](https://orcid.org/0000-0003-2197-4376)
 
