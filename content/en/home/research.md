@@ -111,9 +111,7 @@ See my blog post on the difference between a PRS for islet autoimmunity compared
 
 __Genetic Mapping of Type 1 Diabetes Associated Variants__
 
-We a have identified potential causal variants and regulatory mechanism linking the 3p21.31 locus to type 1 diabetes. Our data suggest that certain variants increase CCR2 gene expression in monocytes and effector T cells leading to increased CCR2/CCL2 pathway activation and immune destruction of pancreatic islets.
-[Manuscript draft](https://augustauniversity.box.com/s/55uy7tzlrwobx2oi90keooj7ipdfzjkq)
-[Figures draft](https://augustauniversity.box.com/s/uwgs73r3zscpjfbi6p14j2xq4c7llvd5)
+We a have identified potential causal variants and regulatory mechanism linking the Il1RN locus to type 1 diabetes. Our data suggest that certain variants increase IL1RA gene expression in monocytes and effector T cells leading to decreased Il1B pathway activation and immune destruction of pancreatic islets. This manuscript is still in progress.
 
 __Type 1 Diabetes Complications__
 
@@ -131,7 +129,7 @@ Code will be released soon.
 ### Medical School Years 3-4 (2020-2022)
 During my last two years of the MD/PhD program, I continued to work on my projects from graduate school and wrote up case reports from interesting cases I saw during my clinical clerkships.
 
-__Impella for COVID19 related cardiomyopathy, abstract submitted (2020)__
+__Impella for COVID19 related cardiomyopathy, (2020)__
 
 __Atypical hemolytic uremic syndrome (2020)__
 [abstract submitted](https://drive.google.com/file/d/1WsWJkHU_ijd1fXalQPitI6UhEW5sEB3R/view?usp=sharing)
