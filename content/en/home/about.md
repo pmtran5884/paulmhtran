@@ -9,9 +9,9 @@ My name is Paul Minh Huy Tran. I am a second generation Vietnamese American. I a
 I completed my PhD dissertation titled ["APPLICATIONS OF MACHINE LEARNING TO GENOMICS:
 STUDIES IN TYPE 1 DIABETES AND CANCER"](https://www.augusta.edu/gradschool/documents/paul-tran-defense-announcement.pdf) in Spring 2020 from the lab of [Jin-Xiong She, PhD](https://augusta.pure.elsevier.com/en/persons/jin-xiong-she). 
 
-I live with my mother, sister, sister's dog ("Nhan"), and my kitten ("Luna").
+I live with my mother, sister, sister's dog ("Nhan", born October 12, 2019).
 
-My partner and I take care of two fur babies. They are Luna, a 10 month old kitten; and George, a chonky boy. 
+My partner and I take care of three fur babies. They are Paul Jr (born July 31, 2021), Luna (born August 20, 2020); and George (born May 7, 2014). 
 
 My grants and publications are listed [here](https://orcid.org/0000-0003-2197-4376)
 
