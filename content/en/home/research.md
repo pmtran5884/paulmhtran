@@ -64,7 +64,7 @@ __Genetic Mapping of Type 1 Diabetes Associated Variants__
 
 We a have identified potential causal variants and regulatory mechanism linking the CCR2 locus to type 1 diabetes. Our data suggest that certain variants increase CCR2 gene expression in monocytes and effector T cells leading to increase CCR2/CCL2 pathway activation and immune destruction of pancreatic islets.
 
-[The 3p21.31 genetic locus promotes progression to type 1 diabetes through the CCR2/CCL2 pathway] (https://www.sciencedirect.com/science/article/pii/S2589909021000472)
+[The 3p21.31 genetic locus promotes progression to type 1 diabetes through the CCR2/CCL2 pathway](https://www.sciencedirect.com/science/article/pii/S2589909021000472)
 
 A manuscript detailing the genetics of serum Il1-ra and its association with progression to T1D is in progress. [code](https://rpubs.com/ptran/866046)
 
