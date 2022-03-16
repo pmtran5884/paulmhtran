@@ -3,10 +3,8 @@ title: "Movies and TV Shows I am currently watching"
 weight: 45
 ---
 
-WandaVision
+Ted Lasso
 
-Loki
+The Wheel of Time
 
-The Great British Baking Show
-
-Bear Gryllis
+The West Wing
